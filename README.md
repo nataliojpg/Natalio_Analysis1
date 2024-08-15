@@ -32,7 +32,7 @@ Natalio ha ganado un interés significativo en Instagram, y este proyecto profun
 
 ✦ analysis_natalio.ipynb - Jupyter Notebook que contiene el análisis de datos y visualizaciones.
 
-✦ data - Carpeta con archivos de datos en bruto exportados desde los insights de Instagram (archivos CSV) y la fuente Poppins.
+✦ data - Carpeta con archivos de datos exportados desde los insights de Instagram (archivos CSV) y la tipografía Poppins.
 
 ## Herramientas
 
