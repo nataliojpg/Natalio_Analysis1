@@ -1,3 +1,4 @@
+![Banner](./data/banner.jpg)
 # Natalio: Data Analysis & Visualization 🤡 
 🇬🇧
 This project explores insights from the Instagram account of Natalio, a clown character I created, who shares posts about mental health, relationships, and self-reflection. By combining my passions for illustration and data, I've used Python and various libraries to analyze and visualize data from Meta's insights on the account.
